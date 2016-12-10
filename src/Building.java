@@ -3,6 +3,7 @@
  */
 public class Building {
     public static void main(String[] args){
+        double robit;
     Flat flat = new Flat(4,40);
         System.out.println(flat.getArea());
         System.out.println(flat.getRooms());
